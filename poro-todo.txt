@@ -1,1 +1,15 @@
 - whirlwind (need stats & sprites)
+- Oblivion re-code..
+-- Weaving pattern heads
+- Wall of Steel..
+-- 70000 HP(not unchangeable)
+- 56 defense(might have more when it’s released)
+ - 130 base contact damage(dunno about this, what do you guys think?)
+ Stage 1:
+ - Comes at the player, travelling about 1.5 times as fast as the Wall of Flesh. Fires cursed flame balls at the player from the mouth eye, and red lasers from the turret eye.
+ - Grenades will be launched from the center, saw-like appendage.
+- Metal “hungry” will also spawn, and actively seek out the player.
+ - When it gets to 2/3 health, it will begin firing faster(both flames and lasers)
+ Stage 2:
+ - Upon reaching half health, it will stop moving and charge a wide-beam particle cannon for 3 seconds(coming from the grenade launcher), lowering its defense to 0. When the beam fires, it will take double damage from any weapon for 2 seconds. When finished firing, the WoS will move forward 100 tiles(defense at normal(maybe even double, hmm)) and repeat the firing process.
+..End wall of steel
